@@ -1,0 +1,3 @@
+name = "JuAFEM"
+uuid = "30d91d44-8115-11e8-1d28-c19a5ac16de8"
+repo = "https://github.com/KristofferC/JuAFEM.jl.git"

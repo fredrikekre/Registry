@@ -4,3 +4,4 @@ repo = "https://github.com/fredrikekre/Registry.git"
 
 [packages]
 13b54a02-2f9f-4836-8d63-2896159f488f = { name = "ImportMacros", path = "I/ImportMacros" }
+30d91d44-8115-11e8-1d28-c19a5ac16de8 = { name = "JuAFEM", path = "J/JuAFEM" }
